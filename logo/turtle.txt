@@ -1,0 +1,6 @@
+x=Turtle() pøidá želvu
+fd()forward()
+bk(
+color(),bgcolor()
+clearscreen()
+
